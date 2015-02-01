@@ -5,4 +5,5 @@
 3. Push notification 
 
 4. Send and receive 
+5. Like and unlike posts 
 
