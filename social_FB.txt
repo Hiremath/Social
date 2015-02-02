@@ -6,5 +6,9 @@
 
 4. Send and receive 
 5. Like and unlike posts 
+<<<<<<< HEAD
 6. Attch large files
+=======
+6. Attach file and photos 
+>>>>>>> parent of a288b04... Revert " added code for attachment & Photos"
 
