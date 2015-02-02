@@ -6,5 +6,4 @@
 
 4. Send and receive 
 5. Like and unlike posts 
-6. Attach file and photos 
 
